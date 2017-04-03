@@ -7,4 +7,4 @@
 5. http://php.net/manual/en/internals2.structure.lifecycle.php
 6. https://www.sitepoint.com/getting-started-php-extension-development-via-php-cpp/
 7. https://www.simonholywell.com/post/2010/09/15-excellent-resources-for-php-extension-development/
-8. http://www.php-cpp.com/documentation/your-first-extension
+8. http://www.php-cpp.com/documentation/ten-reasons-for-using-php-cpp
